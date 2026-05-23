@@ -36,8 +36,6 @@ Never forget to wish someone again!
 * Replaces `[NAME]` in template
 * Sends email via SMTP
 
-📄 Core logic: 
-
 ---
 
 ## 🔐 Gmail Setup
@@ -66,6 +64,3 @@ python3 /home/yourusername/birthday-email-automation/main.py
 5. Set time (once per day)
 
 ✅ Now your script runs automatically every day!
-
-
-
