@@ -1,20 +1,20 @@
-# 🎉 Birthday Email Automation (Python - SMTP + Pandas)
+# Birthday Email Automation (Python - SMTP + Pandas)
 
 An automated Python script that sends personalized birthday emails using CSV data and email templates.
 Never forget to wish someone again!
 
 ---
 
-## 💡 What Makes This Unique?
+##  What Makes This Unique?
 
-* 📅 Automatically checks today's date
-* 📂 Reads structured data from CSV
-* ✉️ Sends **personalized emails**
-* ⚡ Can run **automatically every day (cloud/server)**
+*  Automatically checks today's date
+*  Reads structured data from CSV
+*  Sends **personalized emails**
+*  Can run **automatically every day (cloud/server)**
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```id="q8k2xs"
 .
@@ -28,7 +28,7 @@ Never forget to wish someone again!
 
 ---
 
-## 📊 How It Works
+##  How It Works
 
 * Reads `birthdays.csv` using Pandas
 * Checks today's date
@@ -38,7 +38,7 @@ Never forget to wish someone again!
 
 ---
 
-## 🔐 Gmail Setup
+##  Gmail Setup
 
 1. Enable **2-Step Verification**
 2. Generate **App Password**
@@ -46,7 +46,7 @@ Never forget to wish someone again!
 
 ---
 
-## ☁️ Run Automatically (PythonAnywhere)
+##  Run Automatically (PythonAnywhere)
 
 You can run this script daily without keeping your PC ON.
 
@@ -63,4 +63,4 @@ python3 /home/yourusername/birthday-email-automation/main.py
 
 5. Set time (once per day)
 
-✅ Now your script runs automatically every day!
+ Now your script runs automatically every day!
